@@ -63,6 +63,10 @@ pip install -r requirements.txt
 ```bash
 python -m pytest
 ```
+или
+```bash
+pytest --cov=coreс
+```
 
 ✅ Тесты проверяют:
 - фильтрацию по числам и строкам
