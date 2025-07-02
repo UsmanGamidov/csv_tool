@@ -6,5 +6,4 @@ __pycache__/
 .vscode/
 .venv/
 .pytest_cache/
-result.png
-tests_result.png
+
